@@ -1,4 +1,4 @@
-**FoodSector-NLP**
+#**FoodSector-NLP**
 
 This project represents the culminating effort of our team for the BAIT 508 course in the Master of Business Analytics program at the UBC Sauder School of Business.
 
