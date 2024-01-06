@@ -1,7 +1,8 @@
 **FoodSector-NLP**
+
 This project represents the culminating effort of our team for the BAIT 508 course in the Master of Business Analytics program at the UBC Sauder School of Business.
-**
-Project Overview:**
+
+**Project Overview:**
 
 The primary objective of this project was to perform a comprehensive analysis of publicly-listed American companies in the food stores sector . This was achieved through a combination of diverse data analysis methods and the application of natural language processing (NLP) techniques.
 
